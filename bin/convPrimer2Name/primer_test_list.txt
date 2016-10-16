@@ -1,0 +1,10 @@
+# Only for testing the convPrimer2Name Script.
+# Format:
+# primer_number	primer_name
+# ...
+# Comments are allowed beginning with '#'.
+
+1	ABCA4
+3472	OPA1_ex19_for
+2	MPZ_ex3_rev
+473	INPP5E_ex1_for
