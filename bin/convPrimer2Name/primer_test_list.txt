@@ -4,7 +4,18 @@
 # ...
 # Comments are allowed beginning with '#'.
 
-1	ABCA4
+1	ABCA4_ex29_r
 3472	OPA1_ex19_for
 2	MPZ_ex3_rev
 473	INPP5E_ex1_for
+484  ABCA4_ex30_r
+485 OPA1_ex2_r
+486 ABCA4_ex2_for
+489 ABCA4_ex12_r
+490   OPA1_ex22_r
+492  ABCA4_ex23_r
+493  ABCA4_ex24_r
+650  ABCA4_ex25_r
+652  ABCA4_ex26_r
+654  MERTK_ex27_for
+816  ABCA4_ex28_r
